@@ -1,4 +1,4 @@
-# FdF
+# dr-quine
 
 ## Overview
 [42 Subject](https://cdn.intra.42.fr/pdf/pdf/154007/en.subject.pdf)  
